@@ -1,0 +1,4 @@
+# Add the design-analysis guidance to the profile composition.
+- insert:
+    - id: ui-design-guide
+      name: '@dsh/ui-design-guide'
